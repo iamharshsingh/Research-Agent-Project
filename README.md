@@ -1,4 +1,4 @@
-# Research  Agent Project
+# Research and Drafting Agent Project
 
 ## Overview
 This project implements a Research Agent using HuggingFace LLM, LangChain agents, and Tavily search API.
